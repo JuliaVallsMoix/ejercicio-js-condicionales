@@ -10,3 +10,4 @@ else {
     console.log("Guau!")
 }
 
+// Miau. Perquè l'avaluació del "if" és true.

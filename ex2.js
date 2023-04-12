@@ -11,3 +11,5 @@ if (numero < 2) {
 else {
     console.log("Cuack!")
 }
+
+// Cuack. Perquè l'avaluació del if és false i l'avaluació del else és true.

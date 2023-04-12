@@ -16,3 +16,5 @@ if (4 > 3 && -1 > 0) {
     console.log("Esta condición también se cumple?");
 
 }
+
+// Pel terminal veurem "Esta condición se cumple", perquè només la primera condició es compleix.
